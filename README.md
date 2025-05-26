@@ -36,4 +36,4 @@ Este aplicativo foi desenvolvido para fornecer receitas médicas digitais e info
 
 [Landing Page do Projeto](https://paulopxz.github.io/receita-digital_landing-page/)
 
-[Vídeo Demonstrativo]()
+[Vídeo Demonstrativo](https://youtu.be/JIf4Iy8hlmU)
